@@ -1,0 +1,17 @@
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\obj\Debug\EssentialTools.Tests.csprojResolveAssemblyReference.cache
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\EssentialTools.Tests.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\EssentialTools.Tests.pdb
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\EssentialTools.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\Ninject.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\EssentialTools.pdb
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\Ninject.xml
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\obj\Debug\EssentialTools.Tests.dll
+C:\Users\geras_000\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\obj\Debug\EssentialTools.Tests.pdb
